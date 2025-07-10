@@ -7,5 +7,5 @@
 // // template literals
 // var block = `yoyo this ${3/3}s template literal`;
 // console.log(block);
-const name = prompt("Enter Your fullname: ");
-alert("@" + name + name.length);
+const n = prompt("Enter Your fullname: ");
+alert("@" + n + n.length);
