@@ -8,4 +8,4 @@
 // var block = `yoyo this ${3/3}s template literal`;
 // console.log(block);
 const n = prompt("Enter Your fullname: ");
-alert("@" + n + n.length);
+alert("Letters of" + n + "=" + n.length);
